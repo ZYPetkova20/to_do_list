@@ -1,7 +1,7 @@
 <h1 align="center">ToDo App</h1>
 
 ## 📋 Description
-<p align="center">The idea of the app is to allow the user to write down everything they need to do, to be able to mark what they have done and delete items. I used flutter as the working language and Visual Studio Code as the text editor.</p>
+<p align="center">The ToDo app is a simple and intuitive task management tool designed to help you stay organized and productive. With this app, you can easily add, complete, and delete items from your to-do list, ensuring that you never miss an important task. To make this application I used flutter as programming language and VS code as text editor.</p>
 
  ## 🎬 Demo of the project 
   <p align="center">
