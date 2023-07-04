@@ -86,14 +86,14 @@ class _HomeState extends State<Home> {
                   right: 20,
                 ),
                 child: ElevatedButton(
-                  child: Text('+', style: TextStyle(fontSize: 46,),),
+                  child: Text('+', style: TextStyle(fontSize: 46,), ),
                   onPressed: () {
                     _addToDoItem(_todoController.text);
                   }, 
                   style: ElevatedButton.styleFrom(
                     primary: todoBlue,
                     minimumSize: Size(60, 60),
-                    elevation: 10,
+                    elevation: 50,
                   )
                   )
                ),
